@@ -1,0 +1,11 @@
+.btn {
+  background-color: gold;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+}
+.btn:hover {
+  background-color: rosybrown;
+  color: black;
+  cursor: pointer;
+}/*# sourceMappingURL=style.css.map */
